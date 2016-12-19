@@ -1,0 +1,42 @@
+.affix{	
+	top:0;
+	width:100%;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #66665d;
+	top:0;
+	width:100%;
+	border-radius: 0px;
+}
+
+li{
+	float:left;
+}
+
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+}
+
+.active{
+	background-color: #83fb47;
+}
+
+li a:hover:not(.active){
+	background-color: #3d3d38;
+	color: white;
+}
+
+
+
+
+
+

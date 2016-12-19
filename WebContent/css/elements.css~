@@ -1,0 +1,45 @@
+input[type="text"],
+input[type="password"]
+{
+	height:45px;
+	width: 210px;
+	margin:0;
+	background: #fff;
+	vertical-align: middle;
+	padding: 10px 10px 10px 10px;
+	border:3px solid #fff;
+	border-radius: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+   	color: #000;
+}
+
+.btn{
+	margin-top: 0px;
+	height: 40px;
+	padding: 10px 10px 10px 10px;
+	background: #3498db;
+	width: 160px;
+	border-radius: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+
+.btn:hover{
+	margin-top: 0px;
+	height: 40px;
+	padding: 10px 10px 10px 10px;
+	background: #3498db;
+	width: 160px;
+	border-radius: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+.row{
+	margin-top:2px;
+	padding:10px;
+}

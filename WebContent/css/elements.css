@@ -1,0 +1,73 @@
+input[type="text"],
+input[type="password"]
+{
+	height:45px;
+	width: 210px;
+	margin:0;
+	background: #fff;
+	vertical-align: middle;
+	padding: 10px 10px 10px 10px;
+	border:3px solid #fff;
+	border-radius: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+   	color: #000;
+}
+
+.btn{
+	margin-top: 0px;
+	height: 40px;
+	padding: 10px 10px 10px 10px;
+	background: #3498db;
+	width: 160px;
+	border-radius: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+
+.btn:hover{
+	margin-top: 0px;
+	height: 40px;
+	padding: 10px 10px 10px 10px;
+	background: #3498db;
+	width: 160px;
+	border-radius: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+.row{
+	margin-top:2px;
+	padding:10px;
+}
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload{
+    position: absolute;
+    height: 35px;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.btn-circle{
+	border-radius:50%; 
+	width:50px; 
+	height:50px; 
+	background:#3368ff; 
+	border:none;
+	box-shadow: 3px 0px 3px #3d3d38;
+	color:#ffffff;
+	font-size:18px;
+}
